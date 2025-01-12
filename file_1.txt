@@ -7,3 +7,5 @@ import seaborn
 kodingan dari Kurnia  dengan full dan lengkap
 
 ## code dari main
+
+code main pada hari berikutnya
