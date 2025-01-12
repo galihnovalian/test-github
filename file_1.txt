@@ -1,11 +1,5 @@
 import pandas as pd
-import seaborn
+import seaborn as sns
 # code ini berasal dari local
 
-# code dari Galih
-
-kodingan dari Kurnia  dengan full dan lengkap
-
-## code dari main
-
-code main pada hari berikutnya
+# code dari main
